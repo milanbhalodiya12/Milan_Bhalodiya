@@ -1,0 +1,17 @@
+
+--COLOR--
+
+Blue: 03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8
+
+Black: f8f9fa-e9ecef-dee2e6-ced4da-adb5bd-6c757d-495057-343a40-212529
+
+Yellow: ff595e-ffca3a-8ac926-1982c4-6a4c93
+
+Green: 007f5f-2b9348-55a630-80b918-aacc00-bfd200-d4d700-dddf00-eeef20-ffff3f
+
+
+--FONT--
+
+https://fonts.google.com/specimen/Lora?preview.size=45
+
+https://fonts.google.com/specimen/Titillium+Web?preview.size=45
